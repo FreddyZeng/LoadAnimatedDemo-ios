@@ -36,8 +36,6 @@
 #import "UIScrollView+TABAnimated.h"
 
 #import "TABAnimatedDarkModeDefines.h"
-#import "UITableView+TABControlAnimation.h"
-#import "UICollectionView+TABControlAnimation.h"
 
 #endif
 
